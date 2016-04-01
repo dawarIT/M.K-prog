@@ -1,0 +1,6 @@
+C:\Users\DAWAR\documents\visual studio 2013\Projects\m.k final prog\m.k final prog\bin\Debug\m.k final prog.exe.config
+C:\Users\DAWAR\documents\visual studio 2013\Projects\m.k final prog\m.k final prog\bin\Debug\m.k final prog.exe
+C:\Users\DAWAR\documents\visual studio 2013\Projects\m.k final prog\m.k final prog\bin\Debug\m.k final prog.pdb
+C:\Users\DAWAR\documents\visual studio 2013\Projects\m.k final prog\m.k final prog\obj\Debug\m.k final prog.exe
+C:\Users\DAWAR\documents\visual studio 2013\Projects\m.k final prog\m.k final prog\obj\Debug\m.k final prog.pdb
+C:\Users\DAWAR\Documents\Visual Studio 2013\Projects\m.k final prog\m.k final prog\obj\Debug\m.k final prog.csprojResolveAssemblyReference.cache
